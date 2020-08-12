@@ -62,6 +62,7 @@ class Board
     @rows.each do |row|
       check = false if row.include? EMPTY
     end
+    check
   end
 
   private
