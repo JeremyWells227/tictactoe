@@ -1,0 +1,25 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Board	lib/board.rb	/^class Board$/;"	c
+Game	lib/game.rb	/^class Game$/;"	c
+Player	lib/player.rb	/^class Player$/;"	c
+ask_move	lib/player.rb	/^  def ask_move$/;"	f	class:Player
+check_diagonals	lib/board.rb	/^  def check_diagonals$/;"	f
+check_draw	lib/board.rb	/^  def check_draw$/;"	f
+check_rows_and_columns	lib/board.rb	/^  def check_rows_and_columns$/;"	f
+check_winner	lib/board.rb	/^  def check_winner$/;"	f
+game_loop	lib/game.rb	/^  def game_loop$/;"	f	class:Game
+initialize	lib/board.rb	/^  def initialize$/;"	f	class:Board
+initialize	lib/game.rb	/^  def initialize$/;"	f	class:Game
+initialize	lib/player.rb	/^  def initialize(name)$/;"	f	class:Player
+make_empty_board	lib/board.rb	/^  def make_empty_board$/;"	f	class:Board
+mark	lib/board.rb	/^  def mark(coords)$/;"	f	class:Board
+marked?	lib/board.rb	/^  def marked?(coords)$/;"	f
+move	lib/player.rb	/^  def move$/;"	f	class:Player
+render	lib/board.rb	/^  def render$/;"	f
+set_mark	lib/board.rb	/^  def set_mark$/;"	f	class:Board
+start	lib/game.rb	/^  def start$/;"	f	class:Game
